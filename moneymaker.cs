@@ -29,7 +29,7 @@ namespace MoneyMaker
       //Print the results
       Console.WriteLine($"Gold coins: {goldCoins}");
       Console.WriteLine($"Silver coins: {silverCoins}");
-      Console.WriteLine($"Bronze coins: {remainderc}");      
+      Console.WriteLine($"Bronze coins: {remainder}");      
     }
   }
 }
